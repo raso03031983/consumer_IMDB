@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cb5c3c8-d18d-4619-9712-f0501945a6ca": {
+      "ProjectGuid": "1cb5c3c8-d18d-4619-9712-f0501945a6ca",
+      "DisplayName": "IMDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
