@@ -17,5 +17,7 @@ namespace IMDB.Data.ORM
         }
 
         public DbSet<Filme> Filme { get; set; }
+        public DbSet<Genero> Genero { get; set; }
+        public DbSet<FilmeGenero> FilmeGenero { get; set; }
     }
 }

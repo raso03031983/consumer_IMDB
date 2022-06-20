@@ -9,7 +9,8 @@ namespace IMDB
         static void Main(string[] args)
         {
             new IMDBService().ConsumerIMDB();
-            
+            //new IMDBService().ConsumerIMDBGenero();
+
         }
     }
 }
